@@ -1,4 +1,4 @@
-# Architecture of Jupyter notebook's Dashboard #
+# Architecture of Jupyter notebook 
 
 The tables below show the current RESTful web service architecture implemented in Jupyter notebook. The listed URL's use the HTTP verbs to return representations of the desired resource.
 
