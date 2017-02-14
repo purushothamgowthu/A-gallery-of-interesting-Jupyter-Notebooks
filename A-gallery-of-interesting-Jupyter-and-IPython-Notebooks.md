@@ -413,6 +413,8 @@ prettyplotlib, Stack Overflow, and seaborn](http://nbviewer.ipython.org/gist/msu
 
 * [A SymPy tutorial](http://nbviewer.ipython.org/url/www.inp.nsk.su/~grozin/python/sympy.ipynb), by [Andrey Grozin](http://www.inp.nsk.su/~grozin/).
 
+* [Introduction to Mathematics with Python](https://github.com/drvinceknight/Python-Mathematics-Handbook), a collection of notebooks aimed at Mathematics with no/little Python knowledge. Notebooks can be selected to serve as resources for a workshop. By [Vince Knight](https://github.com/drvinceknight).
+
 ### Signal and Sound Processing
 
 * [Simulation of Delta Sigma modulators in Python](http://nbviewer.ipython.org/github/ggventurini/python-deltasigma/blob/master/examples/dsdemo1.ipynb) with [deltasigma](https://github.com/ggventurini/python-deltasigma), Python port of of Richard Schreier's *excellent* [MATLAB Delta Sigma Toolbox](http://www.mathworks.com/matlabcentral/fileexchange/19-delta-sigma-toolbox), by [Giuseppe Venturini](https://github.com/ggventurini). Several demonstrative notebooks on the package [README](https://github.com/ggventurini/python-deltasigma/blob/master/README.md).
