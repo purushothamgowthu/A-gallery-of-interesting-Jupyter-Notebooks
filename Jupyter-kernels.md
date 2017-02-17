@@ -37,7 +37,7 @@ The Kernel Zero, is [IPython](https://ipython.org), which you can get through [i
 |[Bash](https://github.com/takluyver/bash_kernel)|IPython >= 3|bash|||Wrapper|
 |[PowerShell](https://github.com/vors/jupyter-powershell)|IPython >= 3|Windows|||Wrapper, Based on Bash Kernel|
 |[CloJupyter](https://github.com/roryk/clojupyter)|Jupyter|Clojure >= 1.7||||
-|[CLJ-Jupyter](https://github.com/achesnais/clj-jupyter)|Jupyter|Clojure ||||
+|[CLJ-Jupyter](https://github.com/achesnais/clj-jupyter)|Jupyter|Clojure |||Abandoned as of 2017-02-12|
 |[jupyter-kernel-jsr223](https://github.com/fiber-space/jupyter-kernel-jsr223)|Jupyter>=4.0|Clojure 1.8|[clojure-jrs223](https://github.com/ato/clojure-jsr223), Java>=7||Java based JSR223 compliant||
 |[Hy Kernel](https://github.com/bollwyvl/hy_kernel/)|Jupyter|Hy||[Tutorial](http://nbviewer.ipython.org/github/bollwyvl/hy_kernel/blob/master/notebooks/Tutorial.ipynb)||
 |[Redis Kernel](https://github.com/supercoderz/redis_kernel)|IPython >= 3|redis|||Wrapper|
