@@ -579,6 +579,8 @@ This section contains academic papers that have been published in the peer-revie
 
 1. [Multi-tiered genomic analysis of head and neck cancer ties TP53 mutation to 3p loss, by A. Gross et al. (Nature Genetics 2014)](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3051.html). The [full collection of notebooks to replicate the results](https://github.com/theandygross/TCGA/tree/master/Analysis_Notebooks#guide-to-running). 
 
+1. [Dog and human inflammatory bowel disease rely on overlapping yet distinct dysbiosis networks, by Vázquez-Baeza et al. (Nature microbiology 2016)](http://www.nature.com/articles/nmicrobiol2016177). The [full collection of notebooks to replicate the results](https://github.com/ElDeveloper/dogs).
+
 1. [powerlaw: a Python package for analysis of heavy-tailed distributions, by J. Alstott et al.](https://code.google.com/p/powerlaw/). [Notebook of examples in manuscript](http://nbviewer.ipython.org/gist/19fcdd6a4ba400ce8de2), [ArXiv link](http://arxiv.org/abs/1305.0215) and [project repository](https://github.com/jeffalstott/powerlaw).
 
 1. [Collaborative cloud-enabled tools allow rapid, reproducible biological insights, by B. Ragan-Kelley et al.](http://www.nature.com/ismej/journal/v7/n3/full/ismej2012123a.html). The [main notebook](http://nbviewer.ipython.org/gist/3693491/cloud_demo_complete.ipynb), the [full collection of related notebooks](http://nbviewer.ipython.org/gist/3693491) and the [companion site](http://qiime.org/home_static/nih-cloud-apr2012) with the Amazon AMI information for reproducing the full paper.
