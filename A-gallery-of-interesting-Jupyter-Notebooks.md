@@ -667,7 +667,7 @@ Of course the first thing you might try is searching for videos about IPython (1
 
 * [This video](http://www.youtube.com/watch?v=4ONBVNm3isI) shows IPython being used in the [scikit-learn](http://scikit-learn.org) project
 
-* He doesn't show IPython in use but his IPython sticker is clear for the entire video: [Planning and Tending the Garden: The Future of Early Childhood Python Education](http://www.youtube.com/watch?v=op61s-QHryk)
+* He does not show IPython in use but his IPython sticker is clear for the entire video: [Planning and Tending the Garden: The Future of Early Childhood Python Education](http://www.youtube.com/watch?v=op61s-QHryk)
 
 * [Wes McKinney's speech](http://youtu.be/qbYYamU42Sw?t=5m9s) on Python and data analysis features IPython as does his book [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
 
