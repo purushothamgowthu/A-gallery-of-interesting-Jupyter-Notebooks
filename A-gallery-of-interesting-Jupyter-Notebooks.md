@@ -627,6 +627,8 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 1. [Structure of a shear-line polar low](http://onlinelibrary.wiley.com/doi/10.1002/qj.2911/abstract) (2016) by [Sergeev, D. E.](https://dennissergeev.github.io/), [Renfrew, I. A.](https://archive.uea.ac.uk/~e046/home.htm), Spengler, T. and Dorling, S. R. *Q.J.R. Meteorol. Soc.* doi:10.1002/qj.2911. Accompanied by [Notebooks to generate the published figures](https://github.com/dennissergeev/structure-of-a-shear-line-polar-low-notebooks).
 
+1. [Detecting High-Order Epistasis in Nonlinear Genotype-Phenotype Maps](http://www.genetics.org/content/205/3/1079) by [Zachary R. Sailer](https://github.com/Zsailer) and [Michael J. Harms](https://github.com/harmsm) published in *Genetics*, March 2017 . All figures can be reproduced by the set of notebooks in [this Github repo](https://github.com/harmslab/notebooks-nonlinear-high-order-epistasis). 
+
 ## Data-driven journalism
 
 * [The Need for Openness in Data Journalism](http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb), by [Brian Keegan](http://www.brianckeegan.com).
