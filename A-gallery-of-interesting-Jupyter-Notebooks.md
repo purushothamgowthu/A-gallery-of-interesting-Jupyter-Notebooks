@@ -134,6 +134,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [Apache SINGA tutorial](http://nbviewer.jupyter.org/github/apache/incubator-singa/blob/master/doc/en/docs/notebook/index.ipynb). A Python tutorial for deep learning with SINGA.
 
+* [Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/README.md), a frequently updated collection of notebooks on statistical inference, data analysis, visualization and machine learning, by [Donne Martin](https://github.com/donnemartin).
+
 ### Mathematics, Physics, Chemistry, Biology
 
 * A [single-atom laser model](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures/blob/master/Lecture-2B-Single-Atom-Lasing.ipynb). This is one of a complete set of [lectures on quantum mechanics and quantum optics using QuTiP](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures) by [J.R. Johansson](https://github.com/jrjohansson).
