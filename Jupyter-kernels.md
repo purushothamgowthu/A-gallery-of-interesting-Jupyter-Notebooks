@@ -84,7 +84,7 @@ The Kernel Zero, is [IPython](https://ipython.org), which you can get through [i
 |[jupyter-nodejs](https://github.com/notablemind/jupyter-nodejs)|Jupyter, iPython 3.x|NodeJS, Babel, Clojurescript||[Examples](http://nbviewer.jupyter.org/gist/jaredly/404a36306fdee6a1737a)|
 |[Pike](https://github.com/kevinior/jupyter-pike-kernel)|IPython >= 3|Pike >= 7.8|||Wrapper, Based on Bash Kernel|
 |[ITypeScript](https://github.com/nearbydelta/itypescript)||Typescript >= 2.0|Node.js >= 0.10.0|||
-|[imatlab](https://github.com/anntzer/imatlab)|ipykernel >= 4.1|MATLAB >= 2016b||||
+|[imatlab](https://github.com/imatlab/imatlab)|ipykernel >= 4.1|MATLAB >= 2016b||||
 |[jupyter-kotlin](https://github.com/ligee/kotlin-jupyter)|Jupyter|Kotlin 1.1-M04 EAP|Java >= 8|||
 |[jupyter_kernel_singular](https://github.com/sebasguts/jupyter_kernel_singular)|Jupyter|Singular 4.1.0||[Demo](https://github.com/sebasguts/jupyter-singular/blob/master/Demo.ipynb)|Optional PySingular for better performance, surf for images, [details](https://www.singular.uni-kl.de/index.php/graphical-interface.html)|
 |[spylon-kernel](https://github.com/maxpoint/spylon-kernel)|ipykernel >=4.5|python >= 3.5, scala >= 2.11|Apache Spark >=2.0|[Example](https://github.com/maxpoint/spylon-kernel/blob/master/examples/basic_example.ipynb)|MetaKernel|
