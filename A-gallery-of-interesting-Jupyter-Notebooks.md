@@ -204,6 +204,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [Digital Signal Processing](https://github.com/spatialaudio/digital-signal-processing-lecture) A collection of notebooks that accompanies a masters course on the topic.
 
+* [An introduction to openCV](https://github.com/handee/opencv-gettingstarted) An introduction course into using openCV for computer vision in python
+
 ### Engineering Education
 
 * [Introduction to Chemical Engineering Analysis](http://jckantor.github.io/CBE20255/) by [Jeff Kantor](http://jckantor.github.io/). A collection of IPython notebooks illustrating topics in introductory chemical engineering analysis, including stoichiometry, generation-consumption analysis, mass and energy balances.
