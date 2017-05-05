@@ -39,7 +39,8 @@ The Kernel Zero, is [IPython](https://ipython.org), which you can get through [i
 |[CloJupyter](https://github.com/roryk/clojupyter)|Jupyter|Clojure >= 1.7||||
 |[CLJ-Jupyter](https://github.com/achesnais/clj-jupyter)|Jupyter|Clojure |||Abandoned as of 2017-02-12|
 |[jupyter-kernel-jsr223](https://github.com/fiber-space/jupyter-kernel-jsr223)|Jupyter>=4.0|Clojure 1.8|[clojure-jrs223](https://github.com/ato/clojure-jsr223), Java>=7||Java based JSR223 compliant||
-|[Hy Kernel](https://github.com/bollwyvl/hy_kernel/)|Jupyter|Hy||[Tutorial](http://nbviewer.ipython.org/github/bollwyvl/hy_kernel/blob/master/notebooks/Tutorial.ipynb)||
+|[Hy Kernel](https://github.com/bollwyvl/hy_kernel/)|Jupyter|Hy||[Tutorial](http://nbviewer.ipython.org/github/bollwyvl/hy_kernel/blob/master/notebooks/Tutorial.ipynb)|treats Hy as Python pre-processor|
+|[Calysto Hy](https://github.com/Calysto/calysto_hy)|Jupyter|Hy||[Tutorial](https://github.com/Calysto/calysto_hy/blob/master/notebooks/Tutorial.ipynb)| based on MetaKernel (magics, shell, parallel, etc.)|
 |[Redis Kernel](https://github.com/supercoderz/redis_kernel)|IPython >= 3|redis|||Wrapper|
 |[jove](https://www.npmjs.com/package/jove)||io.js||||
 |[jp-babel](https://www.npmjs.com/package/jp-babel)|Jupyter|Babel||||
