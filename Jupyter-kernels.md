@@ -49,7 +49,7 @@ The Kernel Zero, is [IPython](https://ipython.org), which you can get through [i
 |[IWolfram](https://github.com/mmatera/iwolfram)||Wolfram Mathematica| Wolfram Mathematica(R), Metakernel||MetaKernel|
 |[Lua Kernel](https://github.com/neomantra/lua_ipython_kernel)||Lua||||
 |[IPyLua](https://github.com/pakozm/IPyLua)||Lua|||Fork of *Lua Kernel*|
-|[Calysto Scheme](https://github.com/Calysto/calysto_scheme)||Scheme|||MetaKernel|
+|[Calysto Scheme](https://github.com/Calysto/calysto_scheme)||Scheme||[Reference Guide](https://github.com/Calysto/calysto_scheme/blob/master/notebooks/Reference%20Guide%20for%20Calysto%20Scheme.ipynb)|MetaKernel|
 |[Calysto Processing](https://github.com/Calysto/calysto_processing)||Processing.js >= 2|||MetaKernel|
 |[idl_kernel](https://github.com/lstagner/idl_kernel)||IDL|||IDL seem to have a [built-in kernel](http://www.exelisvis.com/docs/idl_kernel.html) starting with version 8.5|
 |[Mochi Kernel](https://github.com/pya/mochi-kernel)||Mochi||||
