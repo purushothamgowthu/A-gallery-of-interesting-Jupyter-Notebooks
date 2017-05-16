@@ -547,6 +547,10 @@ The interactive plotting library [Nyaplot](https://github.com/domitry/nyaplot) h
 
 * [Xamarin Workbooks](https://github.com/xamarin/Workbooks) Create a rich C# workbook for Android, iOS, Mac, WPF, or Console, and get instant live results as you learn these APIs.
 
+### Javascript
+
+* Two IJavascript notebooks that demonstrate how to use [D3](https://d3js.org) to [do computations and send a SVG back](https://nbviewer.jupyter.org/gist/Fil/efb1c9f3f0a9092c420dfe4cef8def96) and [play with a virtual DOM](https://nbviewer.jupyter.org/gist/Fil/aec6cbf62f9b71c3407db87d5eb592e7/D3%20notebook.ipynb)
+
 ## Miscellaneous topics about doing various things *with* the Notebook itself
 
 * [Blogging With IPython in Blogger](http://nbviewer.ipython.org/github/fperez/blog/blob/master/120907-Blogging%20with%20the%20IPython%20Notebook.ipynb), also available in [blog post form](http://blog.fperez.org/2012/09/blogging-with-ipython-notebook.html), [full repo here](https://github.com/fperez/blog). By Fernando Perez.
