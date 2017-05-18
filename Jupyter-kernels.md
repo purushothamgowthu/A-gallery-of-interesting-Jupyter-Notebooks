@@ -61,6 +61,7 @@ The Kernel Zero, is [IPython](https://ipython.org), which you can get through [i
 |[IVisual](https://pypi.python.org/pypi/IVisual)||VPython||[Ball-in-Box](http://nbviewer.jupyter.org/url/dl.dropboxusercontent.com/u/5095342/visual/Ball-in-Box.ipynb)||
 |[IBrainfuck](https://github.com/robbielynch/ibrainfuck)||Brainfuck||[Demo](http://nbviewer.jupyter.org/gist/robbielynch/e611442ca2d056f3b78f)|Wrapper|
 |[KDB+/Q Kernel (IKdbQ)](https://github.com/jvictorchen/IKdbQ)|IPython >= 3.1|Q|qzmq, qcrypt|||
+|[KDB+/Q Kernel (KdbQ Kernel)](https://github.com/newtux/KdbQ_kernel)|Jupyter|Q||||
 |[ICryptol](https://github.com/GaloisInc/ICryptol)||Cryptol|CVC4|||
 |[cling](https://github.com/root-mirror/cling)|Jupyter 4|C++||[Example](https://github.com/root-mirror/cling/blob/master/tools/Jupyter/kernel/cling.ipynb)||
 |[Xonsh](https://github.com/calysto/xonsh_kernel)||Xonsh||[Example](http://nbviewer.ipython.org/github/Calysto/xonsh_kernel/blob/master/xonsh_kernel.ipynb)|MetaKernel|
