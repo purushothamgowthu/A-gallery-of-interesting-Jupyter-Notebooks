@@ -4,6 +4,8 @@ The tables below show the current RESTful web service architecture implemented i
 
 We are in the process of creating a new dashboard architecture for the Jupyter notebook, which will allow the user to navigate through multiple directory files to find desired notebooks.
 
+The schema is [here](https://github.com/jupyter/notebook/blob/master/notebook/services/api/api.yaml), rendered nicely [here](http://petstore.swagger.io/?url=https://raw.githubusercontent.com/jupyter/notebook/master/notebook/services/api/api.yaml).
+
 ## Current Architecture ##
 
 Miscellaneous
