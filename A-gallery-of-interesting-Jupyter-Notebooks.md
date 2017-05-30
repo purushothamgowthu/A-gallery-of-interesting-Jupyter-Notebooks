@@ -157,7 +157,7 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [HyperPython: a practical introduction to the solution of hyperbolic conservation laws](http://nbviewer.ipython.org/github/ketch/HyperPython/tree/master/), a course by [David Ketcheson](http://davidketcheson.info).
 
-* [An Introduction to Applied Bioinformatics](http://caporasolab.us/An-Introduction-To-Applied-Bioinformatics): Interactive lessons in bioinformatics, by [Greg Caporaso](http://caporasolab.us).
+* [An Introduction to Applied Bioinformatics](http://readiab.org/): Interactive lessons in bioinformatics, by [Greg Caporaso](http://caporasolab.us).
 
 * Colour science computations with [colour](https://github.com/colour-science/colour), a Python package implementing a comprehensive number of colour theory transformations and algorithms supported by a [dedicated collection of IPython Notebooks](http://nbviewer.ipython.org/github/colour-science/colour-ipython/blob/master/notebooks/colour.ipynb). More colour science related [IPython Notebooks](http://nbviewer.ipython.org/github/colour-science/colour-website/tree/master/ipython/) are available on [colour-science.org](http://colour-science.org/).
 
