@@ -1,4 +1,4 @@
-This page is a curated collection of Jupyter/IPython notebooks that are notable for some reason (the page was created before the Jupyter name transition, and renaming the page would break all links).  Feel free to add new content here, but please try to only include links to notebooks that include interesting visual or technical content; this should *not* simply be a dump of a Google search on every ipynb file out there.
+This page is a curated collection of Jupyter/IPython notebooks that are notable for some reason.  Feel free to add new content here, but please try to only include links to notebooks that include interesting visual or technical content; this should *not* simply be a dump of a Google search on every ipynb file out there.
 
 **Important contribution instructions:** If you add new content, please ensure that for any notebook you link to, the link is to the rendered version using [nbviewer](http://nbviewer.ipython.org), rather than the raw file.  Simply paste the notebook URL in the nbviewer box and copy the resulting URL of the rendered version.  This will make it much easier for visitors to be able to immediately access the new content.
 
