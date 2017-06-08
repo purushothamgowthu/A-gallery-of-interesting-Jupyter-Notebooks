@@ -641,6 +641,8 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 1. [Detecting High-Order Epistasis in Nonlinear Genotype-Phenotype Maps](http://www.genetics.org/content/205/3/1079) by [Zachary R. Sailer](https://github.com/Zsailer) and [Michael J. Harms](https://github.com/harmsm) published in *Genetics*, March 2017 . All figures can be reproduced by the set of notebooks in [this Github repo](https://github.com/harmslab/notebooks-nonlinear-high-order-epistasis). 
 
+1. [Summary Analysis of the 2017 GitHub Open Source Survey](https://osf.io/preprints/socarxiv/qps53/) by [Stuart Geiger](https://github.com/staeiou). Preprint in *SocArXiv*, June 2017. doi:10.17605/OSF.IO/ENRQ5. Paper is derived from a notebook converted to LaTeX with nbconvert. Notebook and materials at: [OSF](https://osf.io/enrq5/), [GitHub](https://github.com/staeiou/github-survey-analysis), [nbviewer](https://nbviewer.jupyter.org/github/staeiou/github-survey-analysis/blob/master/github-survey-descriptive-stats.ipynb)
+
 ## Data-driven journalism
 
 * [The Need for Openness in Data Journalism](http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb), by [Brian Keegan](http://www.brianckeegan.com).
