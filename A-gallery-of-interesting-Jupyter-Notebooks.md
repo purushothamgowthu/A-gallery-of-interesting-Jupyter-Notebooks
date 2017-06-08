@@ -337,10 +337,9 @@ Joe McCarthy](http://interrelativity.com/joe).
 
 * [Probability, Paradox, and the Reasonable Person Principle](http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb), by Peter Norvig.
 
-* [How Likely Would You Give A Five-Star Review on Yelp? -- Getting Your Hands Dirty with scikit-learn]
-(http://nbviewer.jupyter.org/github/xun-tang/pyladies_jupyter_demo/blob/master/Predict_Review_Five_Star_Rating.ipynb), by [Xun Tang] (https://www.linkedin.com/in/xuntang). Complimentary [slides](https://docs.google.com/presentation/d/1bfrXePztSa-yTP8n_qTdd9zazNS_tyJs1mG3fYItznI/edit).  
+* [How Likely Would You Give A Five-Star Review on Yelp? -- Getting Your Hands Dirty with scikit-learn](http://nbviewer.jupyter.org/github/xun-tang/pyladies_jupyter_demo/blob/master/Predict_Review_Five_Star_Rating.ipynb), by [Xun Tang](https://www.linkedin.com/in/xuntang). Complimentary [slides](https://docs.google.com/presentation/d/1bfrXePztSa-yTP8n_qTdd9zazNS_tyJs1mG3fYItznI/edit).  
 
-* [Geodemographic Segmentation Model] (http://nbviewer.jupyter.org/github/filipacsr/DataScience/blob/master/GeodemographicSegmentationModel.ipynb), by [Filipa Rodrigues](https://www.linkedin.com/in/filipacrodrigues/)
+* [Geodemographic Segmentation Model](http://nbviewer.jupyter.org/github/filipacsr/DataScience/blob/master/GeodemographicSegmentationModel.ipynb), by [Filipa Rodrigues](https://www.linkedin.com/in/filipacrodrigues/)
 
 ### Physics, Chemistry and Biology
 
@@ -352,7 +351,7 @@ Joe McCarthy](http://interrelativity.com/joe).
 
 * [The sound of Hydrogen](http://nbviewer.ipython.org/github/Carreau/posts/blob/master/07-the-sound-of-hydrogen.ipynb), visualizing and listening to the quantum-mechanical spectrum of Hydrogen. By [Matthias Bussonnier](http://github.com/Carreau).
 
-* Particle physics at the Large Hadron Collider (LHC):  using [ROOT in an LHCb masterclass](http://root.cern.ch/drupal/content/ipython-notebooks-and-root-0):  [Notebook 1](http://nbviewer.ipython.org/github/mazurov/webfest2013/blob/master/notebooks/MasterClassD0-ex1.ipynb) and [Notebook 2](http://nbviewer.ipython.org/github/mazurov/webfest2013/blob/master/notebooks/MasterClassD0-ex2%2Cex3.ipynb) notebooks by Alexander Mazurov and Andrey Ustyuzhanin at CERN.
+* Particle physics at the Large Hadron Collider (LHC):  using [ROOT in an LHCb masterclass](http://root.cern.ch/drupal/content/ipython-notebooks-and-root-0): [Notebook 1](http://nbviewer.ipython.org/github/mazurov/webfest2013/blob/master/notebooks/MasterClassD0-ex1.ipynb) and [Notebook 2](http://nbviewer.ipython.org/github/mazurov/webfest2013/blob/master/notebooks/MasterClassD0-ex2%2Cex3.ipynb) notebooks by Alexander Mazurov and Andrey Ustyuzhanin at CERN.
 
 * [A Reaction-Diffusion Equation Solver in Python with Numpy](http://nbviewer.ipython.org/github/waltherg/notebooks/blob/master/2013-12-03-Crank_Nicolson.ipynb), a demonstration of how IPython notebooks can be used to discuss both the theory and implementation of numerical algorithms on one page, by [Georg Walther](https://github.com/waltherg).
 
@@ -412,8 +411,7 @@ prettyplotlib, Stack Overflow, and seaborn](http://nbviewer.ipython.org/gist/msu
 
 * [Chebfun in Python](http://nbviewer.ipython.org/gist/6724986), a demo of [PyChebfun](https://github.com/cswiercz/pychebfun), by [Olivier Verdier](http://www.olivierverdier.com). PyChebfun is a pure-python implementation of the celebrated [Chebfun package by Battles and Trefethen](http://people.maths.ox.ac.uk/trefethen/publication/PDF/2004_107.pdf). 
 
-* [The Matrix Exponential]
-(http://nbviewer.ipython.org/github/sdrelton/matrix_function_notebooks/blob/master/TheMatrixExponential.ipynb), an introduction to the matrix exponential, its applications, and a list of available software in Python and MATLAB. By [Sam Relton](http://www.maths.manchester.ac.uk/~srelton/).
+* [The Matrix Exponential](http://nbviewer.ipython.org/github/sdrelton/matrix_function_notebooks/blob/master/TheMatrixExponential.ipynb), an introduction to the matrix exponential, its applications, and a list of available software in Python and MATLAB. By [Sam Relton](http://www.maths.manchester.ac.uk/~srelton/).
 
 * [Fractals, complex numbers, and your imagination](http://nbviewer.ipython.org/github/cfangmeier/ipython_notebooks/blob/master/Imagination.ipynb), by [Caleb Fangmeier](https://github.com/cfangmeier).
 
@@ -427,7 +425,7 @@ prettyplotlib, Stack Overflow, and seaborn](http://nbviewer.ipython.org/gist/msu
 
 * [PyOracle: Automatic analysis of musical structure](http://nbviewer.ipython.org/urls/bitbucket.org/pucktronix/pyoracle/raw/d046b2bcf473503fa356094cfe4cff774d1aaefc/270D.ipynb), by [Greg Surges](http://gregsurges.com).
 
-* [A Gallery of SciPy's Window Functions for quick visual inspection and comparison] (http://nbviewer.ipython.org/urls/gist.githubusercontent.com/jaidevd/b7d865f7f4b237ab5181/raw/30bc8f998bf8f924b56b32ce10acce125656ed7c/scipy_window_gallery.ipynb)
+* [A Gallery of SciPy's Window Functions for quick visual inspection and comparison](http://nbviewer.ipython.org/urls/gist.githubusercontent.com/jaidevd/b7d865f7f4b237ab5181/raw/30bc8f998bf8f924b56b32ce10acce125656ed7c/scipy_window_gallery.ipynb)
  by [Jaidev Deshpande](http://twitter.com/jaidevd)
 
 * [Poisson Image Editing | Seamless Cloning](http://nbviewer.jupyter.org/github/riddhishb/ipython-notebooks/blob/master/Poisson%20Editing/Seamless_Cloning.ipynb) by [Dhruv Ilesh Shah](https://github.com/PrieureDeSion) is a notebook that achieves Seamless Image Cloning by employing the Poisson Solver in the iterative form.
@@ -460,7 +458,7 @@ Note that in the 'collections' section above there are also pandas-related links
 
 * [Advanced analysis of Apache logs](http://nbviewer.ipython.org/github/koldunovn/nk_public_notebooks/blob/master/Apache_log.ipynb), by [Nikolay Koldunov](https://github.com/koldunovn).
 
-* [Statistical Data Analysis in Python] (https://github.com/fonnesbeck/statistical-analysis-python-tutorial), by [Christopher Fonnesbeck](https://github.com/fonnesbeck/), SciPy 2013. Companion videos [1](https://www.youtube.com/watch?v=DXPwSiRTxYY), [2](https://www.youtube.com/watch?v=TGEBpzJUxdI), [3](https://www.youtube.com/watch?v=YZDtBEEZuAk), [4](https://www.youtube.com/watch?v=5_rcdhBXD-0)
+* [Statistical Data Analysis in Python](https://github.com/fonnesbeck/statistical-analysis-python-tutorial), by [Christopher Fonnesbeck](https://github.com/fonnesbeck/), SciPy 2013. Companion videos [1](https://www.youtube.com/watch?v=DXPwSiRTxYY), [2](https://www.youtube.com/watch?v=TGEBpzJUxdI), [3](https://www.youtube.com/watch?v=YZDtBEEZuAk), [4](https://www.youtube.com/watch?v=5_rcdhBXD-0)
 
 ## General Python Programming
 
@@ -605,8 +603,7 @@ This section contains academic papers that have been published in the peer-revie
 
 1. [Extrapolating Weak Selection in Evolutionary Games](http://nbviewer.ipython.org/github/juliangarcia/ews/blob/master/notebook.ipynb), by Wu, García, Hauert and Traulsen. [PLOS Comp Bio paper](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003381) and [Figshare link](http://figshare.com/articles/Extrapolating_weak_selection_in_evolutionary_games_source_code/814470).
 
-1. [Using neural networks to estimate redshift distributions. An application to CFHTLenS]
-(http://nbviewer.ipython.org/urls/bitbucket.org/christopher_bonnett/nn_notebook/raw/5e69b55193a229cb2076a2f18e43b45c56e317e0/T-800.ipynb)
+1. [Using neural networks to estimate redshift distributions. An application to CFHTLenS](http://nbviewer.ipython.org/urls/bitbucket.org/christopher_bonnett/nn_notebook/raw/5e69b55193a229cb2076a2f18e43b45c56e317e0/T-800.ipynb)
 by Christopher Bonnett [paper](http://arxiv.org/abs/1312.1287)(submitted to MNRAS) 
 
 1. [Mechanisms for stable, robust, and adaptive development of orientation maps in the primary visual cortex](http://dx.doi.org/10.1523/JNEUROSCI.1037-13.2013) by Jean-Luc R. Stevens, Judith S. Law, Jan Antolik, and James A. Bednar. Journal of Neuroscience, 33:15747-15766, 2013. [Notebook1]
