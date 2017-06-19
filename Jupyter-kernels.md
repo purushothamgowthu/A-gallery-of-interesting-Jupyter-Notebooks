@@ -24,7 +24,7 @@ The Kernel Zero, is [IPython](https://ipython.org), which you can get through [i
 |[Jupyter-scala](https://github.com/alexarchambault/jupyter-scala)|IPython>=3.0|Scala>=2.10||[example](https://github.com/alexarchambault/jupyter-scala/blob/master/examples/tutorials/Macrology.ipynb)||
 |[IErlang](https://github.com/robbielynch/ierlang)|IPython 2.3|Erlang|rebar|||
 |[ITorch](https://github.com/facebook/iTorch)|IPython >= 2.2|Torch 7 (LuaJIT)||||
-|[IElixir](https://github.com/pprzetacznik/IElixir)|Jupyter < 6.0|Elixir < 1.5|Erlang, Rebar|[example](https://github.com/pprzetacznik/IElixir/blob/master/resources/example.ipynb)|[IElixir Notebook in Docker](https://mattvonrocketstein.github.io/heredoc/ielixir-notebook-in-docker.html#sf-ielixir-notebook-in-docker-2-back)|
+|[IElixir](https://github.com/pprzetacznik/IElixir)|Jupyter < 6.0|Elixir < 1.5|Erlang OTP <= 19.3, Rebar|[example](https://github.com/pprzetacznik/IElixir/blob/master/resources/example.ipynb)|[IElixir Notebook in Docker](https://mattvonrocketstein.github.io/heredoc/ielixir-notebook-in-docker.html#sf-ielixir-notebook-in-docker-2-back)|
 |[IAldor](https://github.com/mattpap/IAldor)|IPython >= 1|Aldor||||
 |[IOCaml](https://github.com/andrewray/iocaml)|IPython >= 1.1|OCaml >= 4.01|opam|||
 |[IForth](https://github.com/jdfreder/iforth)|IPython >= 3|Forth||||
