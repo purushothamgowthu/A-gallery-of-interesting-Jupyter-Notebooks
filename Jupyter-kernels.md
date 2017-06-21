@@ -5,6 +5,7 @@ The Kernel Zero, is [IPython](https://ipython.org), which you can get through [i
 |Name| Jupyter/IPython Version | Language(s) Version | 3rd party dependencies | Example Notebooks | Notes |
 |----|-------------------------|---------------------|------------------------|-------------------|-------|
 |[Coarray-Fortran](https://github.com/sourceryinstitute/jupyter-CAF-kernel)|Jupyter 4.0|Fortran 2008/2015|GFortran >= 7.1, [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays), [MPICH](https://mpich.org) >= 3.2|[Demo](https://nbviewer.jupyter.org/github/sourceryinstitute/jupyter-CAF-kernel/blob/master/index.ipynb), [Binder demo](https://beta.mybinder.org/v2/gh/sourceryinstitute/jupyter-CAF-kernel/master?filepath=index.ipynb)|[Docker image](https://hub.docker.com/r/sourceryinstitute/jupyter-caf-kernel/)|
+|[sparkmagic](https://github.com/jupyter-incubator/sparkmagic)|Jupyter >=4.0|Pyspark (Python), Spark (Scala), SparkR (R)|[Livy](https://github.com/cloudera/livy)|[Notebooks](https://github.com/jupyter-incubator/sparkmagic/tree/master/examples), [Docker Images](https://github.com/jupyter-incubator/sparkmagic#docker)|This kernels are implemented via the magics machinery of the ipython kernel to use Spark via Livy|
 |[sas_kernel](https://github.com/sassoftware/sas_kernel)|Jupyter 4.0|python >= 3.3|SAS 9.4 or higher|||
 |[IPyKernel](https://github.com/ipython/ipykernel)|Jupyter 4.0|python 2.7, >= 3.3|pyzmq|||
 |[IJulia](https://github.com/JuliaLang/IJulia.jl)||julia >= 0.3||||
