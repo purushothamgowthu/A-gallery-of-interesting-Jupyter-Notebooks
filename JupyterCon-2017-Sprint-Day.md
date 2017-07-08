@@ -1,4 +1,3 @@
-# JupyterCon 2017 Sprint Day
 
 ## Description
 Come join the leaders and contributors from the Jupyter community in the free JupyterCon code sprint at the Hilton Midtown on Saturday, August 26, sponsored by Bloomberg. At the sprint, you can work side-by-side with leaders and contributors in the Jupyter ecosystem to implement that feature you've always wanted, fix bugs, write documentation, test software, or dive deep into the internals of a project.
