@@ -3,7 +3,7 @@
 ## Description
 Come join the leaders and contributors from the Jupyter community in the free JupyterCon code sprint at the Hilton Midtown on Saturday, August 26, sponsored by Bloomberg. At the sprint, you can work side-by-side with leaders and contributors in the Jupyter ecosystem to implement that feature you've always wanted, fix bugs, write documentation, test software, or dive deep into the internals of a project.
 
-Sprint contributors of all experience levels are welcome. Sprint contributors should bring their laptop.
+Sprint contributors of all experience levels are welcome. We'll have a short introduction to the Github workflow for new contributors. Sprint contributors should bring their laptop.
 
 Sprint project leaders coordinate the work on a project, help contributors, and suggest some items that would be great to work on. If you'd like to be a sprint project leader, please contact Kyle Kelley and Jason Grout.
 
