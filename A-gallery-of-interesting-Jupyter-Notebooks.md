@@ -664,7 +664,7 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 * [Reveal converter mini-tutorial](http://nbviewer.ipython.org/url/www.damian.oquanta.info/posts/reveal-converter-mini-tutorial.ipynb), also available in [blog post form](http://www.damian.oquanta.info/posts/reveal-converter-mini-tutorial.html). Do you want to make static html/css slideshow straight from the IPython notebook? OK, now you can do it with the *reveal* converter (nbconvert). [Demo](http://www.slideviper.oquanta.info/tutorial/slideshow_tutorial_slides.html) by Damián Avila.  
 
-* [Personal IPython Weight Notebook] (http://nbviewer.ipython.org/gist/9769238). Plot your loss of weight with prognosis and motivation features.
+* [Personal IPython Weight Notebook](http://nbviewer.ipython.org/gist/9769238). Plot your loss of weight with prognosis and motivation features.
 
 * [Streaming Double Pendulum Simulation in IPython NB](http://nbviewer.ipython.org/github/plotly/python-user-guide/blob/master/s7_streaming/s7_streaming.ipynb).
 
