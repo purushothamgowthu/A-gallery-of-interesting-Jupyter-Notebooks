@@ -658,7 +658,7 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 * [Conway's Game of Life](http://nbviewer.ipython.org/gist/3778422). Interesting use of convolution operation to calculate the next state of game board, instead of obvious find neighbors and filter the board for next state.
 
-* [pynguins](https://gist.github.com/denfromufa/9a5e1fdeaf611dc60ea8). Using jupyter notebook, python, and numpy to solve Board Game "Penguins on Ice".
+* [pynguins](https://nbviewer.jupyter.org/gist/denfromufa/9a5e1fdeaf611dc60ea8). Using jupyter notebook, python, and numpy to solve Board Game "Penguins on Ice".
 
 * ["People plots"](http://nbviewer.ipython.org/gist/4544012), stick figures generated with matplotlib.
 
