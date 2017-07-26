@@ -84,6 +84,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [An introduction to Bayesian inference](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb), this is just chapter 1 in an ongoing book titled [Probabilistic Programming and Bayesian Methods for Hackers Using Python and PyMC](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers), by [Cameron Davidson-Pilon](http://camdp.com/).
 
+* [Doing Bayesian Data Analysis](https://github.com/JWarmenhoven/DBDA-python): Python/PyMC3 code for a selection of models and figures from the book _'Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'_, Second Edition, by John Kruschke (2015).  
+
 * [Learn Data Science](http://learnds.com), an entire self-directed course by [Nitin Borwankar](https://github.com/nborwankar).
 
 * [IPython Cookbook](http://ipython-books.github.io/cookbook/) by [Cyrille Rossant](http://cyrille.rossant.net/), a comprehensive guide to Python for Data Science. The code of the 100 recipes is available on [the GitHub repository](https://github.com/ipython-books/cookbook-code).
