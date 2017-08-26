@@ -43,7 +43,7 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 1. [Data-driven journalism](#data-driven-journalism)
 1. [Whimsical notebooks](#whimsical-notebooks)
 1. [Videos of IPython being used in the wild](#videos-of-ipython-being-used-in-the-wild)
-1. [Accessing an IBM Quantum Computer via notebooks](#accessing-an-ibm-quantum-computer-via-notebooks)
+1. [Accessing an IBM quantum computer via notebooks](#accessing-an-ibm-quantum-computer-via-notebooks)
 
 ## Entire books or other large collections of notebooks on a topic
 
@@ -691,6 +691,6 @@ Of course the first thing you might try is searching for videos about IPython (1
 
 * [This video](https://www.youtube.com/watch?v=zG8FYPFU9n4) shows Plotly and IPython in use at a Montreal Python meetup. 
 
-## Accessing an IBM Quantum Computer via Notebooks
+## Accessing an IBM quantum computer via Notebooks
 * [Information](https://developer.ibm.com/open/openprojects/qiskit/) about the quantum computing community and toolkit.
-* [Github](https://github.com/QISKit/qiskit-api-py) notebook example showing how to access a Quantum Computer.
+* [Github](https://github.com/QISKit/qiskit-api-py) notebook example (scroll down) illustrating how to access a quantum computer.
