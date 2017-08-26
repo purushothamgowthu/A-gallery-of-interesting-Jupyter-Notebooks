@@ -694,3 +694,4 @@ Of course the first thing you might try is searching for videos about IPython (1
 ## Accessing an IBM quantum computer via notebooks
 * [Information](https://developer.ibm.com/open/openprojects/qiskit/) about the quantum computing community and toolkit.
 * [Github](https://github.com/QISKit/qiskit-api-py) notebook example (scroll down) illustrating how to access a quantum computer.
+* [Developers' Guide](https://developer.ibm.com/code/2017/05/17/developers-guide-to-quantum-qiskit-sdk/) to quantum qiskit SDK.
