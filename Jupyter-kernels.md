@@ -32,6 +32,7 @@ The Kernel Zero, is [IPython](https://ipython.org), which you can get through [i
 |[IForth](https://github.com/jdfreder/iforth)|IPython >= 3|Forth||||
 |[IPerl](https://metacpan.org/release/Devel-IPerl)||Perl 5||||
 |[IPerl6](https://github.com/timo/iperl6kernel)||Perl 6||||
+|[Jupyter-Perl6](https://github.com/bduggan/p6-jupyter-kernel)|Jupyter|Perl 6.C|[Rakudo Perl 6](http://rakudo.org/how-to-get-rakudo/)|||
 |[IPHP](https://github.com/dawehner/ipython-php)|IPython >= 2|PHP >= 5.4|composer||DEPRECATED, use Jupyter-PHP|
 |[Jupyter-PHP](https://github.com/Litipk/Jupyter-PHP)|Jupyter 4.0|PHP >= 7.0.0|composer, php-zmq|||
 |[IOctave](https://github.com/calysto/octave_kernel)|Jupyter|Octave||[Example](http://nbviewer.jupyter.org/github/Calysto/octave_kernel/blob/master/octave_kernel.ipynb)|MetaKernel|
