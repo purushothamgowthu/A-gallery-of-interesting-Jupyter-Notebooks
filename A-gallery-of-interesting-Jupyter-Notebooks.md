@@ -61,6 +61,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [Introduction to Programming (using Python)](http://nbviewer.ipython.org/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb), an entire introductory Python course written by [Eric Matthes](http://peak5390.wordpress.com/about). [This post](http://peak5390.wordpress.com/2013/09/22/how-ipython-notebook-and-github-have-changed-the-way-i-teach-python/) explains the educational context in an Alaskan high school where Eric is a teacher.
 
+* [Numeric Computing is Fun](https://github.com/mikkokotila/jupyter4kids) A series of notebooks created to help educate aspiring computer programmers and data scientists of all ages with no previous programming experience.
+
 * [Python for Developers](http://ricardoduarte.github.io/python-for-developers), a complete book on Python programming by [Ricardo Duarte](https://github.com/ricardoduarte). Note the book also exists [in Portuguese](http://ricardoduarte.github.io/python-para-desenvolvedores).
 
 * [CS1001.py - Extended Introduction to Computer Science](https://github.com/yoavram/CS1001.py). Recitations from Tel-Aviv University introductory course to computer science, assembled as IPython notebooks by [Yoav Ram](http://www.yoavram.com/).
