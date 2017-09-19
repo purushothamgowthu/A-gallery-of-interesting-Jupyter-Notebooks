@@ -97,7 +97,7 @@ The Kernel Zero, is [IPython](https://ipython.org), which you can get through [i
 |[mit-scheme-kernel](https://github.com/joeltg/mit-scheme-kernel)|Jupyter 4.0|MIT Scheme 9.2||||
 |[elm-kernel](https://github.com/abingham/jupyter-elm-kernel)|Jupyter|||[Examples](https://github.com/abingham/jupyter-elm-kernel/tree/master/examples)||
 |[SciJava Jupyter Kernel](https://github.com/hadim/scijava-jupyter-kernel)|Jupyter 4.3.0|Java + 9 scripting languages|Java|[Examples](https://github.com/hadim/scijava-jupyter-kernel/tree/master/notebooks)||
-
+|[Isbt](https://github.com/ktr-skmt/Isbt)|Jupyter 4.3.0|sbt >= 1.0.0|sbt|[example](https://github.com/ktr-skmt/Isbt/blob/master/examples/isbt_examples.ipynb)||
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
