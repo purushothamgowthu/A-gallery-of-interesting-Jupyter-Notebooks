@@ -190,6 +190,7 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [Machinalis](http://www.machinalis.com/) has a [public repo](https://github.com/machinalis/satimg) with material support for geospatial-data processing related blog posts. It includes notebooks about [Object Based Image Analysis](http://nbviewer.jupyter.org/github/machinalis/satimg/blob/master/object_based_image_analysis.ipynb) and [irrigation circles detection](http://nbviewer.jupyter.org/github/machinalis/satimg/blob/master/Searching%20for%20aliens.ipynb).
 
+* [seismo-live](http://seismo-live.org/) is a collection of live Jupyter notebooks for seismology. It includes a fairly large number of notebooks on how to solve the acoustic and elastic wave equation with various different numerical methods. Additionally it contains notebooks with an extensive introduction to data handling and signal processing in seismology, and notebooks tackling ambient seismic noise, rotational and glacial seismology, and more.
 
 
 ### Linguistics and Text Mining
