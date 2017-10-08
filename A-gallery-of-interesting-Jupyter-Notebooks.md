@@ -653,6 +653,8 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 1. [Summary Analysis of the 2017 GitHub Open Source Survey](https://osf.io/preprints/socarxiv/qps53/) by [Stuart Geiger](https://github.com/staeiou). Preprint in *SocArXiv*, June 2017. doi:10.17605/OSF.IO/ENRQ5. Paper is derived from a notebook converted to LaTeX with nbconvert. Notebook and materials at: [OSF](https://osf.io/enrq5/), [GitHub](https://github.com/staeiou/github-survey-analysis), [nbviewer](https://nbviewer.jupyter.org/github/staeiou/github-survey-analysis/blob/master/github-survey-descriptive-stats.ipynb)
 
+1. [The weirdest SDSS galaxies: results from an outlier detection algorithm](https://arxiv.org/abs/1611.07526), by [D. Baron](https://github.com/dalya) and D. Poznanski. [Notebooks to replicate](https://github.com/dalya/WeirdestGalaxies).
+
 ## Data-driven journalism
 
 * [The Need for Openness in Data Journalism](http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb), by [Brian Keegan](http://www.brianckeegan.com).
