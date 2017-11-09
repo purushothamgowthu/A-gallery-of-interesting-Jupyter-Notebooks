@@ -77,6 +77,10 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 ### Statistics, Machine Learning and Data Science
 
+* [An introductory notebook on uncertainty quantification and sensitivity analysis](http://nbviewer.jupyter.org/github/lrhgit/uqsa_tutorials/blob/master/index.ipynb) developed for the [Workshop On Uncertainty Quantification And Sensitivity Analysis For
+Cardiovascular Modeling](http://sathercenter.berkeley.edu/peder-sather-grant/2016-grantees/)
+by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Sturdy.
+
 * [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook), a collection of notebooks by [Jake VanderPlas](http://vanderplas.com) to accompany the book.
 
 * ["ISP": Introduction to Statistics with Python](https://github.com/thomas-haslwanter/statsintro_python), a collection of notebooks accompanying the [book of the same name](http://www.springer.com/us/book/9783319283159), by [Thomas Haslwanter](http://work.thaslwanter.at).
@@ -325,9 +329,6 @@ Joe McCarthy](http://interrelativity.com/joe).
 
 ### Machine Learning, Statistics and Probability
 
-* [An introductory notebook on uncertainty quantification and sensitivity analysis](http://nbviewer.jupyter.org/github/lrhgit/uqsa_tutorials/blob/master/index.ipynb) developed for the [Workshop On Uncertainty Quantification And Sensitivity Analysis For
-Cardiovascular Modeling](http://sathercenter.berkeley.edu/peder-sather-grant/2016-grantees/)
-by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Sturdy.
 
 * [A tutorial introduction to machine learning with sklearn](http://amueller.github.com/sklearn_tutorial), an IPython-based slide deck by [Andreas Mueller](https://github.com/amueller).
 
