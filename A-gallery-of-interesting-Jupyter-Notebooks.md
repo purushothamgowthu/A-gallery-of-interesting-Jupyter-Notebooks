@@ -325,7 +325,9 @@ Joe McCarthy](http://interrelativity.com/joe).
 
 ### Machine Learning, Statistics and Probability
 
-* [An introduction to parallel machine learning with sklearn, joblib and IPython.parallel](http://nbviewer.ipython.org/gist/5115540/Model%20Selection%20for%20the%20Nystroem%20Method.ipynb), a notebook that accompanies this [slide deck](https://speakerdeck.com/ogrisel/parallel-and-large-scale-machine-learning-with-scikit-learn) by [Olivier Grisel](https://github.com/ogrisel).
+* [An introductory notebook on uncertainty quantification and sensitivity analysis](http://nbviewer.jupyter.org/github/lrhgit/uqsa_tutorials/blob/master/index.ipynb) developed for the [Workshop On Uncertainty Quantification And Sensitivity Analysis For
+Cardiovascular Modeling](http://sathercenter.berkeley.edu/peder-sather-grant/2016-grantees/)
+by [Leif Rune Hellevik](https://github.com/lrhgit).
 
 * [A tutorial introduction to machine learning with sklearn](http://amueller.github.com/sklearn_tutorial), an IPython-based slide deck by [Andreas Mueller](https://github.com/amueller).
 
