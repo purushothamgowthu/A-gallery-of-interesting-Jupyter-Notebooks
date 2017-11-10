@@ -178,6 +178,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb). This notebook fully reproduces the research published in [this paper](https://f1000research.com/articles/5-1574/v1). The notebook uses mostly python but includes some bash and R as well and is relevant for researchers in bioinformatics and public health.  
 
+* [Lung Cancer Post-Translational Modification and Gene Expression Regulation](http://nbviewer.jupyter.org/github/MaayanLab/CST_Lung_Cancer_Viz/blob/master/notebooks/CST_Data_Viz.ipynb?flush_cache=true). This Python notebook uses the Jupyter-widget [Clustergrammer-Widget](http://clustergrammer.readthedocs.io/clustergrammer_widget.html) to visualize hierarchical clustering of gene expression and post-translational modification data from 37 lung cancer cell lines as an interactive heatmap. The notebook is part of the research project from this [paper](https://www.nature.com/articles/sdata2017151). 
+
 ### Earth Science and Geo-Spatial data
 
 * [EarthPy](http://earthpy.org), a collection of IPython notebooks with a focus on Earth Sciences, from [whale tracks](http://earthpy.org/analyzing-whale-tracks.html) to the [flow of the Amazon](http://earthpy.org/earthpy-basemap-amazon.html).
