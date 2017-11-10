@@ -662,6 +662,8 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 1. [The weirdest SDSS galaxies: results from an outlier detection algorithm](https://arxiv.org/abs/1611.07526), by [D. Baron](https://github.com/dalya) and D. Poznanski. [Notebooks to replicate](https://github.com/dalya/WeirdestGalaxies).
 
+1. [Clustergrammer, a web-based heatmap visualization and analysis tool for high-dimensional biological data](https://www.nature.com/articles/sdata2017151), by [Nicolas Fernandez](https://github.com/cornhundred) et al. Notebooks: [Fig. 3](http://nbviewer.jupyter.org/github/MaayanLab/CST_Lung_Cancer_Viz/blob/master/notebooks/CST_Data_Viz.ipynb), [Fig. 4](http://nbviewer.jupyter.org/github/MaayanLab/Cytof_Plasma_PMA/blob/master/notebooks/Compare_Cell-Type_Distribution_PMA_Treatment.ipynb), [Fig. 5](http://nbviewer.jupyter.org/github/MaayanLab/CCLE_Clustergrammer/blob/master/notebooks/Clustergrammer_CCLE_Notebook.ipynb)
+
 ## Data-driven journalism
 
 * [The Need for Openness in Data Journalism](http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb), by [Brian Keegan](http://www.brianckeegan.com).
