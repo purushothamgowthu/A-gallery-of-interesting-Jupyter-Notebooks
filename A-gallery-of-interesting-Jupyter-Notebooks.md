@@ -160,7 +160,7 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [CFD Python: 12 steps to Navier-Stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes). A complete set of lectures on Computational Fluid Dynamics, from 1-d linear waves to full 2-d Navier-Stokes, by [Lorena Barba](http://lorenabarba.com).
 
-* [Pytherm - Applied Thermodynamics](http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb). Lectures on applied thermodynamics using Python and the SciPy ecosystem, by [ATOMS](atoms.peq.coppe.ufrj.br/).
+* [Pytherm - Applied Thermodynamics](http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb). Lectures on applied thermodynamics using Python and the SciPy ecosystem, by [ATOMS](http://atoms.peq.coppe.ufrj.br/).
 
 * [AeroPython: Aerodynamics-Hydrodynamics with Python](https://github.com/barbagroup/AeroPython), a complete course taught at George Washington University by [Lorena Barba](http://lorenabarba.com).
 
