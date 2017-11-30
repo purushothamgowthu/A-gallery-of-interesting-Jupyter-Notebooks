@@ -32,6 +32,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[ierl](https://github.com/filmor/ierl)|Jupyter >= 4.0|Erlang 19 or 20, Elixir 1.4 or 1.5, LFE 1.2|Erlang, (optional) Elixir||
 |[IAldor](https://github.com/mattpap/IAldor)|IPython >= 1|Aldor||||
 |[IOCaml](https://github.com/andrewray/iocaml)|IPython >= 1.1|OCaml >= 4.01|opam|||
+|[OCaml-Jupyter](https://github.com/akabe/ocaml-jupyter)|Jupyter >= 4.0|OCaml >= 4.02|opam|[Example](https://github.com/akabe/ocaml-jupyter/blob/master/notebooks/introduction.ipynb)|[Docker image](https://github.com/akabe/docker-ocaml-jupyter-datascience)|
 |[IForth](https://github.com/jdfreder/iforth)|IPython >= 3|Forth||||
 |[IPerl](https://metacpan.org/release/Devel-IPerl)||Perl 5||||
 |[IPerl6](https://github.com/timo/iperl6kernel)||Perl 6||||
