@@ -35,6 +35,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[OCaml-Jupyter](https://github.com/akabe/ocaml-jupyter)|Jupyter >= 4.0|OCaml >= 4.02|opam|[Example](https://github.com/akabe/ocaml-jupyter/blob/master/notebooks/introduction.ipynb)|[Docker image](https://github.com/akabe/docker-ocaml-jupyter-datascience)|
 |[IForth](https://github.com/jdfreder/iforth)|IPython >= 3|Forth||||
 |[IPerl](https://metacpan.org/release/Devel-IPerl)||Perl 5||||
+|[Perl6](https://github.com/gabrielash/p6-net-jupyter)||Perl 6.d Kernel||||
 |[IPerl6](https://github.com/timo/iperl6kernel)||Perl 6||||
 |[Jupyter-Perl6](https://github.com/bduggan/p6-jupyter-kernel)|Jupyter|Perl 6.C|[Rakudo Perl 6](http://rakudo.org/how-to-get-rakudo/)|||
 |[IPHP](https://github.com/dawehner/ipython-php)|IPython >= 2|PHP >= 5.4|composer||DEPRECATED, use Jupyter-PHP|
