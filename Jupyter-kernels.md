@@ -104,6 +104,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[SciJava Jupyter Kernel](https://github.com/hadim/scijava-jupyter-kernel)|Jupyter 4.3.0|Java + 9 scripting languages|Java|[Examples](https://github.com/hadim/scijava-jupyter-kernel/tree/master/notebooks)||
 |[Isbt](https://github.com/ktr-skmt/Isbt)|Jupyter 4.3.0|sbt >= 1.0.0|sbt|[example](https://github.com/ktr-skmt/Isbt/blob/master/examples/isbt_examples.ipynb)||
 |[BeakerX](http://beakerx.com/)|||Groovy, Java, Scala, Clojure, Kotlin, SQL|[example](https://github.com/twosigma/beakerx/blob/master/doc/StartHere.ipynb)|[docker image](https://hub.docker.com/r/beakerx/beakerx/)|
+|[MicroPython](https://github.com/goatchurchprime/jupyter_micropython_kernel/)|Jupyter|ESP8266/ESP32|USB or Webrepl|[developer notebooks](https://github.com/goatchurchprime/jupyter_micropython_developer_notebooks)|relies on the micro-controller's paste-mode|
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
