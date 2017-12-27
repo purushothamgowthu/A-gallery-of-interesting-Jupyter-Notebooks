@@ -34,6 +34,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[IOCaml](https://github.com/andrewray/iocaml)|IPython >= 1.1|OCaml >= 4.01|opam|||
 |[OCaml-Jupyter](https://github.com/akabe/ocaml-jupyter)|Jupyter >= 4.0|OCaml >= 4.02|opam|[Example](https://github.com/akabe/ocaml-jupyter/blob/master/notebooks/introduction.ipynb)|[Docker image](https://github.com/akabe/docker-ocaml-jupyter-datascience)|
 |[IForth](https://github.com/jdfreder/iforth)|IPython >= 3|Forth||||
+|[peforth](https://github.com/hcchengithub/peforth)|IPython 6/Jupyter 5|Forth||[Example](https://github.com/hcchengithub/peforth/wiki)|python debugger in FORTH syntax|
 |[IPerl](https://metacpan.org/release/Devel-IPerl)||Perl 5||||
 |[Perl6](https://github.com/gabrielash/p6-net-jupyter)|Jupyter >= 4|Perl 6.c|zeromq 4|||
 |[IPerl6](https://github.com/timo/iperl6kernel)||Perl 6||||
