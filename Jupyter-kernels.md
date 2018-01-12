@@ -58,6 +58,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[IMathics](http://nbviewer.ipython.org/gist/sn6uv/8381447)||Mathics||||
 |[IWolfram](https://github.com/mmatera/iwolfram)||Wolfram Mathematica| Wolfram Mathematica(R), Metakernel||MetaKernel|
 |[Lua Kernel](https://github.com/neomantra/lua_ipython_kernel)||Lua||||
+|[IPurescript](https://github.com/Eoksni/ipurescript)||Purescript||||
 |[IPyLua](https://github.com/pakozm/IPyLua)||Lua|||Fork of *Lua Kernel*|
 |[Calysto Scheme](https://github.com/Calysto/calysto_scheme)||Scheme||[Reference Guide](https://github.com/Calysto/calysto_scheme/blob/master/notebooks/Reference%20Guide%20for%20Calysto%20Scheme.ipynb)|MetaKernel|
 |[Calysto Processing](https://github.com/Calysto/calysto_processing)||Processing.js >= 2|||MetaKernel|
