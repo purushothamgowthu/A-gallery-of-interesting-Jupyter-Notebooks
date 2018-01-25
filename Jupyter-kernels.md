@@ -18,7 +18,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[ICSharp](https://github.com/zabirauf/icsharp)|Jupyter 4.0|C# 4.0+|scriptcs|||
 |[IRKernel](http://irkernel.github.io/)|IPython 3.0|R 3.2|rzmq|||
 |[SageMath](http://www.sagemath.org/)|Jupyter 4|Any|many|||
-|[pari_jupyter](https://github.com/jdemeyer/pari_jupyter)|Jupyter 4|2.8|Cython|||
+|[pari_jupyter](https://github.com/jdemeyer/pari_jupyter)|Jupyter 4|PARI/GP >= 2.9||||
 |[IFSharp](https://github.com/fsprojects/IfSharp)|IPython 2.0|F#||[Features](http://nbviewer.ipython.org/github/BayardRock/IfSharp/blob/master/Feature%20Notebook.ipynb)||
 |[lgo](https://github.com/yunabe/lgo)|Jupyter >= 4, JupyterLab|Go >= 1.8|ZeroMQ (4.x)|[Example](http://nbviewer.jupyter.org/github/yunabe/lgo/blob/master/examples/basics.ipynb)|[Docker image](https://hub.docker.com/r/yunabe/lgo/)|
 |[gopherlab](https://github.com/fabian-z/gopherlab)|Jupyter 4.1, JupyterLab|Go >= 1.6|ZeroMQ (4.x)|[examples](https://github.com/fabian-z/gopherlab/tree/master/examples)||
