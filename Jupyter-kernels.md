@@ -108,6 +108,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[BeakerX](http://beakerx.com/)|||Groovy, Java, Scala, Clojure, Kotlin, SQL|[example](https://github.com/twosigma/beakerx/blob/master/doc/StartHere.ipynb)|[docker image](https://hub.docker.com/r/beakerx/beakerx/)|
 |[MicroPython](https://github.com/goatchurchprime/jupyter_micropython_kernel/)|Jupyter|ESP8266/ESP32|USB or Webrepl|[developer notebooks](https://github.com/goatchurchprime/jupyter_micropython_developer_notebooks)|relies on the micro-controller's paste-mode|
 |[IJava](https://github.com/SpencerPark/IJava)|Jupyter|Java 9|Java **JDK** >= 9|[Binder online demo](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master?filepath=%2Fhome%2Fjovyan%2FHelloWorld.ipynb)|Based on the new JShell tool|
+|[Guile](https://github.com/jerry40/guile-kernel)|Jupyter 5.2|Guile 2.0|[guile-json](https://github.com/aconchillo/guile-json)||Message signing switched off so far|
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
