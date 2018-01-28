@@ -135,7 +135,8 @@ The following kernel packages are available (along with their dependencies):
 ## Additional Related Projects
 
 *   [Jove](https://github.com/jove-sh) - notebook interface in Java; provides Spark and Scala kernels
-*   [Brython Magics](https://github.com/kikocorreoso/brythonmagic) - A magic trick to allow you to use Brython code (client-side) in other notebooks
+*   [Brython Magics](https://github.com/kikocorreoso/brythonmagic) - A magic trick to allow you to use Brython code (client-side) in other notebooks  
+*   [pixiedust_node](https://github.com/ibm-watson-data-lab/pixiedust_node) - PixieDust extension that enable a Jupyter Notebook user to invoke Node.js commands.
 
 ## Creating new Jupyter kernels
 
