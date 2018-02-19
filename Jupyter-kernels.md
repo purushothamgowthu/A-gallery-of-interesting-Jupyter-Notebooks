@@ -21,8 +21,8 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[pari_jupyter](https://github.com/jdemeyer/pari_jupyter)|Jupyter 4|PARI/GP >= 2.9||||
 |[IFSharp](https://github.com/fsprojects/IfSharp)|IPython 2.0|F#||[Features](http://nbviewer.ipython.org/github/BayardRock/IfSharp/blob/master/Feature%20Notebook.ipynb)||
 |[lgo](https://github.com/yunabe/lgo)|Jupyter >= 4, JupyterLab|Go >= 1.8|ZeroMQ (4.x)|[Example](http://nbviewer.jupyter.org/github/yunabe/lgo/blob/master/examples/basics.ipynb)|[Docker image](https://hub.docker.com/r/yunabe/lgo/)|
-|[gopherlab](https://github.com/fabian-z/gopherlab)|Jupyter 4.1, JupyterLab|Go >= 1.6|ZeroMQ (4.x)|[examples](https://github.com/fabian-z/gopherlab/tree/master/examples)||
-|[Gophernotes](https://github.com/gophergala2016/gophernotes)|Jupyter 4|Go >= 1.4|zeromq 2.2.x|[examples](https://github.com/gophergala2016/gophernotes/tree/master/examples)|[docker image](https://hub.docker.com/r/dwhitena/gophernotes/)|
+|[gopherlab](https://github.com/fabian-z/gopherlab)|Jupyter 4.1, JupyterLab|Go >= 1.6|ZeroMQ (4.x)|[examples](https://github.com/fabian-z/gopherlab/tree/master/examples)|Deprecated, use gophernotes|
+|[Gophernotes](https://github.com/gopherdata/gophernotes)|Jupyter 4, JupyterLab, nteract|Go >= 1.9|ZeroMQ 4.x.x|[examples](https://github.com/gopherdata/gophernotes/tree/master/examples)|[docker image](https://hub.docker.com/r/dwhitena/gophernotes/)|
 |[IGo](https://github.com/takluyver/igo)||Go >= 1.4||||
 |[IScala](https://github.com/mattpap/IScala)||Scala||||
 |[Jupyter-scala](https://github.com/alexarchambault/jupyter-scala)|IPython>=3.0|Scala>=2.10||[example](https://github.com/alexarchambault/jupyter-scala/blob/master/examples/tutorials/Macrology.ipynb)||
