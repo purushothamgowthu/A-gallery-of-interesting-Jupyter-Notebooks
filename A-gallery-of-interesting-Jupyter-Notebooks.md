@@ -59,7 +59,7 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 ### Programming and Computer Science
 
-* [Automata and Computability using Jupyter](http://nbviewer.jupyter.org/github/ganeshutah/Jove/blob/master/notebooks/driver/Drive_Jove_Gallery_Examples.ipynb), an entire course, based on forthcoming book "Automata and Computability: Programmer's Perspective" created by Ganesh Gopalakrishnan, Professor, School of Computing, University of Utah, Salt Lake City. [in English, has Youtube videos]
+* [Automata and Computability using Jupyter](http://nbviewer.jupyter.org/github/ganeshutah/Jove/blob/master/notebooks/driver/Drive_Jove_Gallery_Examples.ipynb), an entire course, based on forthcoming book published by Taylor and Francis; book title: "Automata and Computability: Programmer's Perspective", by Ganesh Gopalakrishnan, Professor, School of Computing, University of Utah, Salt Lake City. [in English, has Youtube videos]
 
 * [Introduction to Programming (using Python)](http://nbviewer.ipython.org/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb), an entire introductory Python course written by [Eric Matthes](http://peak5390.wordpress.com/about). [This post](http://peak5390.wordpress.com/2013/09/22/how-ipython-notebook-and-github-have-changed-the-way-i-teach-python/) explains the educational context in an Alaskan high school where Eric is a teacher.
 
