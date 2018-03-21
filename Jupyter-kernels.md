@@ -27,7 +27,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[IScala](https://github.com/mattpap/IScala)||Scala||||
 |[Jupyter-scala](https://github.com/alexarchambault/jupyter-scala)|IPython>=3.0|Scala>=2.10||[example](https://github.com/alexarchambault/jupyter-scala/blob/master/examples/tutorials/Macrology.ipynb)||
 |[IErlang](https://github.com/robbielynch/ierlang)|IPython 2.3|Erlang|rebar|||
-|[ITorch](https://github.com/facebook/iTorch)|IPython >= 2.2|Torch 7 (LuaJIT)||||
+|[ITorch](https://github.com/facebook/iTorch)|IPython >= 2.2 and <= 5.x |Torch 7 (LuaJIT)||||
 |[IElixir](https://github.com/pprzetacznik/IElixir)|Jupyter < 6.0|Elixir < 1.5|Erlang OTP <= 19.3, Rebar|[example](https://github.com/pprzetacznik/IElixir/blob/master/resources/example.ipynb)|[IElixir Notebook in Docker](https://mattvonrocketstein.github.io/heredoc/ielixir-notebook-in-docker.html#sf-ielixir-notebook-in-docker-2-back)|
 |[ierl](https://github.com/filmor/ierl)|Jupyter >= 4.0|Erlang 19 or 20, Elixir 1.4 or 1.5, LFE 1.2|Erlang, (optional) Elixir||
 |[IAldor](https://github.com/mattpap/IAldor)|IPython >= 1|Aldor||||
