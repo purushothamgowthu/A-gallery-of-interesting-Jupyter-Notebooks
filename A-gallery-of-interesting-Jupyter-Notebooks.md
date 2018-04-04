@@ -668,6 +668,8 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 1. [Clustergrammer, a web-based heatmap visualization and analysis tool for high-dimensional biological data](https://www.nature.com/articles/sdata2017151), by [Nicolas Fernandez](https://github.com/cornhundred) et al. Notebooks: [Fig. 3](http://nbviewer.jupyter.org/github/MaayanLab/CST_Lung_Cancer_Viz/blob/master/notebooks/CST_Data_Viz.ipynb), [Fig. 4](http://nbviewer.jupyter.org/github/MaayanLab/Cytof_Plasma_PMA/blob/master/notebooks/Compare_Cell-Type_Distribution_PMA_Treatment.ipynb), [Fig. 5](http://nbviewer.jupyter.org/github/MaayanLab/CCLE_Clustergrammer/blob/master/notebooks/Clustergrammer_CCLE_Notebook.ipynb)
 
+1. [Sociology: An investigation of Social Class Inequalities in General Cognitive Ability in Two British Birth Cohorts.](https://osf.io/preprints/socarxiv/szxdm/). Preprint in SocArXiv, December 2017. doi: 10.17605/OSF.IO/SZXDM. Notebook and materials at: [OSF](https://osf.io/vey7q/), [GitHub](https://github.com/RoxanneConnelly/Social-Class-Inequalities-in-General-Cognitive-Ability-in-Two-British-Birth-Cohorts), [nbviewer](https://nbviewer.jupyter.org/github/RoxanneConnelly/Social-Class-Inequalities-in-General-Cognitive-Ability-in-Two-British-Birth-Cohorts/blob/master/JupterNotebook_20171122.ipynb). 
+
 ## Data-driven journalism
 
 * [The Need for Openness in Data Journalism](http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb), by [Brian Keegan](http://www.brianckeegan.com).
