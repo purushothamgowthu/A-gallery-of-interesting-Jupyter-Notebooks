@@ -670,6 +670,10 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 1. [Sociology: An investigation of Social Class Inequalities in General Cognitive Ability in Two British Birth Cohorts.](https://osf.io/preprints/socarxiv/szxdm/) Preprint in SocArXiv, December 2017. doi: 10.17605/OSF.IO/SZXDM. Notebook and materials at: [OSF](https://osf.io/vey7q/), [GitHub](https://github.com/RoxanneConnelly/Social-Class-Inequalities-in-General-Cognitive-Ability-in-Two-British-Birth-Cohorts), [nbviewer](https://nbviewer.jupyter.org/github/RoxanneConnelly/Social-Class-Inequalities-in-General-Cognitive-Ability-in-Two-British-Birth-Cohorts/blob/master/JupterNotebook_20171122.ipynb). 
 
+1. [An on-chip architecture for self-homodyned nonclassical light](https://arxiv.org/abs/1611.01566), quant-ph ArXiV preprint, Nov 2016, by Fischer et al. A [supporting notebook for all calculations](https://arxiv.org/src/1611.01566v4/anc/QuTiP-example-homodyne-Jaynes-Cummings-system.ipynb) included in the ArXiV submission.
+
+1. [A nested sampling code for targeted searches for continuous gravitational waves from pulsars](https://arxiv.org/abs/1705.08978), gr-qc ArXiV preprint, May 2017, by Pitkin et al. [Complete repo](https://github.com/mattpitkin/CW_nested_sampling_doc) with supporting notebooks and sources on GitHub.
+
 ## Data-driven journalism
 
 * [The Need for Openness in Data Journalism](http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb), by [Brian Keegan](http://www.brianckeegan.com).
