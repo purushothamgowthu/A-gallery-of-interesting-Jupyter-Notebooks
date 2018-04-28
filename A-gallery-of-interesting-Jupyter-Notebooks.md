@@ -674,6 +674,8 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 1. [A nested sampling code for targeted searches for continuous gravitational waves from pulsars](https://arxiv.org/abs/1705.08978), gr-qc ArXiV preprint, May 2017, by Pitkin et al. [Complete repo](https://github.com/mattpitkin/CW_nested_sampling_doc) with supporting notebooks and sources on GitHub.
 
+1. [HyperTools: A Python toolbox for visualizing and manipulating high-dimensional data](https://arxiv.org/abs/1701.08290), stat.OT ArXiV preprint by Heusser et al. A [repo with companion notebooks](https://github.com/ContextLab/hypertools-paper-notebooks) is available, that links to [the library itself, HyperTools](https://github.com/ContextLab/hypertools).
+
 ## Data-driven journalism
 
 * [The Need for Openness in Data Journalism](http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb), by [Brian Keegan](http://www.brianckeegan.com).
