@@ -15,6 +15,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[IRuby](https://github.com/SciRuby/iruby)||ruby >= 2.1||||
 |[IJavascript](https://github.com/n-riesco/ijavascript)||nodejs >= 0.10||||
 |[jpCoffeescript](https://github.com/n-riesco/jp-coffeescript)||coffeescript >= 1.7||||
+|[jp-LiveScript](https://github.com/p2edwards/jp-livescript)||livescript >= 1.5|||Based on IJavascript and jpCoffeescript|
 |[ICSharp](https://github.com/zabirauf/icsharp)|Jupyter 4.0|C# 4.0+|scriptcs|||
 |[IRKernel](http://irkernel.github.io/)|IPython 3.0|R 3.2|rzmq|||
 |[SageMath](http://www.sagemath.org/)|Jupyter 4|Any|many|||
