@@ -135,8 +135,6 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Kalman and Bayesian Filters in Python](http://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb), by [Roger Labbe](https://github.com/rlabbe).
 
-* [Machine learning in Python](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb), a series based on Andrew Ng's Coursera class on machine learning.  Part of a [larger collection of data science notebooks](https://github.com/jdwittenauer/ipython-notebooks) by [John Wittenauer](https://github.com/jdwittenauer).
-
 * [Adaboost for digit classification](https://nbviewer.jupyter.org/github/riddhishb/ipython-notebooks/blob/master/Adaboost/Adaboost_Final%20note.ipynb
 ), by [Shashwat Shukla](https://github.com/ShashShukla). A complete implementation of Adaboost in Python, with code for digit recognition. 
 
