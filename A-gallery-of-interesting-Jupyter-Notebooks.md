@@ -438,7 +438,7 @@ prettyplotlib, Stack Overflow, and seaborn](http://nbviewer.ipython.org/gist/msu
 
 * [A SymPy tutorial](http://nbviewer.ipython.org/url/www.inp.nsk.su/~grozin/python/sympy.ipynb), by [Andrey Grozin](http://www.inp.nsk.su/~grozin/).
 
-* [Introduction to Mathematics with Python](https://github.com/drvinceknight/Python-Mathematics-Handbook), a collection of notebooks aimed at Mathematics with no/little Python knowledge. Notebooks can be selected to serve as resources for a workshop. By [Vince Knight](https://github.com/drvinceknight).
+* [Introduction to Mathematics with Python](https://github.com/drvinceknight/Python-Mathematics-Handbook), a collection of notebooks aimed at Mathematicians with no/little Python knowledge. Notebooks can be selected to serve as resources for a workshop. By [Vince Knight](https://github.com/drvinceknight).
 
 ### Signal and Sound Processing
 
