@@ -226,7 +226,7 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 ### Engineering Education
 
 * [Introduction to Chemical Engineering Analysis](http://jckantor.github.io/CBE20255/) by [Jeff Kantor](http://jckantor.github.io/). A collection of IPython notebooks illustrating topics in introductory chemical engineering analysis, including stoichiometry, generation-consumption analysis, mass and energy balances.
-* [Sensors and Actuators](http://jckantor.github.io/CBE20255/) by [Andres Marrugo](http://andresmarrugo.net). A collection of Jupyter notebooks in the form of lecture notes and engineering calculations for the course IMTR 1713 Sensors and Actuators taught at the [Universidad Tecnológica de Bolívar](http://www.unitecnologica.edu.co/).
+* [Sensors and Actuators](https://github.com/agmarrugo/sensors-actuators) by [Andres Marrugo](http://andresmarrugo.net). A collection of Jupyter notebooks in the form of lecture notes and engineering calculations for the course IMTR 1713 Sensors and Actuators taught at the [Universidad Tecnológica de Bolívar](http://www.unitecnologica.edu.co/).
 
 ## Scientific computing and data analysis with the SciPy Stack
 ### General topics in scientific computing
