@@ -101,6 +101,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [An introduction to machine learning with Python and scikit-learn](http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/2%20-%20KMeans.ipynb) ([repo and overview](https://github.com/amueller/tutorial_ml_gkbionics)) by [Hannes Schulz](https://github.com/temporaer) and [Andreas Mueller](https://github.com/amueller).
 
+* [A progressive collection notebooks of the Machine Learning course by the University of Turin (with exercises)](https://github.com/rugantio/MachineLearningCourse).
+
 * [Clustering and Regression](http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/hw2/HW2.ipynb), part of the UC Berkeley 2014 [Introduction to Data Science](http://amplab.github.io/datascience-sp14/) course taught by [Michael Franklin](http://www.cs.berkeley.edu/~franklin/).
 
 * [Neural Networks](http://nbviewer.ipython.org/github/masinoa/machine_learning/blob/master/04_Neural_Networks.ipynb), part of a collection on [machine learning](https://github.com/masinoa/machine_learning) by [Aaron Masino](https://github.com/masinoa).
