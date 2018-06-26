@@ -12,7 +12,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[sas_kernel](https://github.com/sassoftware/sas_kernel)|Jupyter 4.0|python >= 3.3|SAS 9.4 or higher|||
 |[IPyKernel](https://github.com/ipython/ipykernel)|Jupyter 4.0|python 2.7, >= 3.3|pyzmq|||
 |[IJulia](https://github.com/JuliaLang/IJulia.jl)||julia >= 0.3||||
-|[IHaskell](https://github.com/gibiansky/IHaskell)||ghc >= 7.6||||
+|[IHaskell](https://github.com/gibiansky/IHaskell)||ghc >= 7.6|||[Demo](https://github.com/ansible/ansible-jupyter-kernel/blob/master/notebooks/HelloWorld.ipynb)|
 |[IRuby](https://github.com/SciRuby/iruby)||ruby >= 2.1||||
 |[IJavascript](https://github.com/n-riesco/ijavascript)||nodejs >= 0.10||||
 |[jpCoffeescript](https://github.com/n-riesco/jp-coffeescript)||coffeescript >= 1.7||||
