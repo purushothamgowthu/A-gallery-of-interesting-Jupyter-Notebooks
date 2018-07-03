@@ -30,7 +30,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[Jupyter-scala](https://github.com/alexarchambault/jupyter-scala)|IPython>=3.0|Scala>=2.10||[example](https://github.com/alexarchambault/jupyter-scala/blob/master/examples/tutorials/Macrology.ipynb)||
 |[IErlang](https://github.com/robbielynch/ierlang)|IPython 2.3|Erlang|rebar|||
 |[ITorch](https://github.com/facebook/iTorch)|IPython >= 2.2 and <= 5.x |Torch 7 (LuaJIT)||||
-|[IElixir](https://github.com/pprzetacznik/IElixir)|Jupyter < 6.0|Elixir < 1.5|Erlang OTP <= 19.3, Rebar|[example](https://github.com/pprzetacznik/IElixir/blob/master/resources/example.ipynb)|[IElixir Notebook in Docker](https://mattvonrocketstein.github.io/heredoc/ielixir-notebook-in-docker.html#sf-ielixir-notebook-in-docker-2-back)|
+|[IElixir](https://github.com/pprzetacznik/IElixir)|Jupyter >= 4.0|Elixir >= 1.5|Erlang OTP >= 19.3, Rebar|[example](https://github.com/pprzetacznik/IElixir/blob/master/resources/example.ipynb), [Boyle package manager examples](https://github.com/pprzetacznik/IElixir/blob/master/resources/boyle%20example.ipynb), [Boyle examples with usage of Matrex library](https://github.com/pprzetacznik/IElixir/blob/master/resources/boyle%20example%20-%20matrex%20installation%20and%20usage.ipynb)|[IElixir Notebook in Docker](https://mattvonrocketstein.github.io/heredoc/ielixir-notebook-in-docker.html#sf-ielixir-notebook-in-docker-2-back)|
 |[ierl](https://github.com/filmor/ierl)|Jupyter >= 4.0|Erlang 19 or 20, Elixir 1.4 or 1.5, LFE 1.2|Erlang, (optional) Elixir||
 |[IAldor](https://github.com/mattpap/IAldor)|IPython >= 1|Aldor||||
 |[IOCaml](https://github.com/andrewray/iocaml)|IPython >= 1.1|OCaml >= 4.01|opam|||
